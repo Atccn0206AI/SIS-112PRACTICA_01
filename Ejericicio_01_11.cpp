@@ -1,14 +1,14 @@
-// Materia: Programación I, Paralelo 4
+// Materia: ProgramaciÃ³n I, Paralelo 4
 // Autor: Willy Edwin Tenorio Palza
-// Fecha creación: 16/08/2023
-// Fecha modificación: 19/08/2023
-// Número de ejericio: 11
-// Problema planteado: Se tiene el pago de un docente de la UCB de planilla permanente y planilla contrato civil. Se paga por categoría 
+// Fecha creaciÃ³n: 16/08/2023
+// Fecha modificaciÃ³n: 19/08/2023
+// NÃºmero de ejericio: 11
+// Problema planteado: Se tiene el pago de un docente de la UCB de planilla permanente y planilla contrato civil. Se paga por categorÃ­a 
 //de acuerdo con la siguiente tabla.
 //A 25% 18%
 //B 20% 14%
 //C 15% 12%
-//Calcule el total ganado siendo el salario por hora de 150 Bs por hora Se debe ingresar cuantas horas a la semana pasa clases y en que categoría está.
+//Calcule el total ganado siendo el salario por hora de 150 Bs por hora Se debe ingresar cuantas horas a la semana pasa clases y en que categorÃ­a estÃ¡.
 
 #include "iostream"
 using namespace std;
